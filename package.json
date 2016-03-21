@@ -1,0 +1,15 @@
+{
+  "name": "react-states-example",
+  "version": "1.0.0",
+  "description": "example of react states manipulation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nikhil Jain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "serve-static": "^1.10.0"
+  }
+}
